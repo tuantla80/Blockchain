@@ -16,7 +16,7 @@ You may install any latest versions easily, such as for request library:   $pip 
 I used Postman (https://www.getpostman.com/) for HTTP client.
 
 Furthermore, it is also worth to note that the Python code here is implemented by me after reviewing and
-making use of some open source codes. Thus this code is used for my learning purposes ONLY.
+making use of some open source codes. Thus this code is used for my learning purposes only.
 
 - Version: 0.0
 - Date: 180322
